@@ -2,7 +2,7 @@ Hi! I am David. I am a college dropout from Buenos Aires aspiring to become a se
 
 I like programming, reading productivity-finance books and playing videogames.
 
-I’m currently learning Full stack development and JAVA.
+I’m currently learning Full stack development in Freecodecamp.
 
 If you wanna know more about me, check my Youtube channel (it's in spanish) 
 https://youtube.com/c/kichana
