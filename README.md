@@ -7,7 +7,7 @@ I’m currently learning Full stack development in Freecodecamp.
 If you wanna know more about me, check my Youtube channel (it's in spanish) 
 https://youtube.com/c/kichana
 
------------------
+<hr>
 
 If you want to reach me you can send me a DM on instagram @deivchoi or just send me an e-mail!
 
