@@ -1,8 +1,11 @@
 Hi! I am David. I am a college dropout from Buenos Aires aspiring to become a self-taught software engineer.
 
-I really enjoy coding desktop apps for myself in JAVA and I am interested in web development too.
+I like programming, reading productivity-finance books and playing videogames.
 
 I’m currently learning Full stack development and JAVA.
+
+If you wanna know more about me, check my Youtube channel (it's in spanish) 
+https://youtube.com/c/kichana
 
 -----------------
 
