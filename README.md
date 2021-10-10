@@ -1,4 +1,4 @@
-Hi! I am David from Buenos Aires. Aspiring self-taught software engineer.
+Hi! I am David from Buenos Aires. Aspiring self-taught software developer.
 
 I like programming, reading productivity-finance books and playing videogames.
 
