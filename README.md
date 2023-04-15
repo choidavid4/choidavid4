@@ -1,10 +1,8 @@
-Hi! I am David from Buenos Aires. Aspiring self-taught software developer.
+Hi! I am David from Buenos Aires. Software developer and content creator.
 
-I like programming, reading productivity-finance books and playing videogames.
+I like programming, reading productivity-finance books and playing videogames!
 
-You will find most of my projects that I make in my free time here!
-
-I’m currently learning Full stack development in Freecodecamp and working on my personal webpage.
+You will find most of my projects I make in my free time here!
 
 If you wanna know more about me, check my Youtube channel (it's in spanish) 
 https://youtube.com/c/kichana
